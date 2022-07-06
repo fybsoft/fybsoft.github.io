@@ -1,0 +1,7 @@
+.cardImg {
+  width:300px; height: 220px; border-radius: 15px;
+  border: 3px solid #ccccff3f;
+  -webkit-box-shadow: 0px 5px 30px 0px rgba(167, 167, 167, 0.16);
+  -moz-box-shadow: 0px 5px 30px 0px rgba(167, 167, 167, 0.16);
+  box-shadow: 0px 5px 30px 0px rgba(167, 167, 167, 0.16);
+}
